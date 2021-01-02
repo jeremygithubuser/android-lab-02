@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android-lab-02</string>
+    <string name="roll_button">Roll</string>
 </resources>
